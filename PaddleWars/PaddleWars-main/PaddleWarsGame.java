@@ -8,7 +8,7 @@ import javafx.scene.input.KeyEvent;
 import javafx.scene.paint.Color;
 import javafx.stage.Stage;
 
-public class TableTennisGame extends Application {
+public class PaddleWarsGame extends Application {
 
     private final int WIDTH = 800;
     private final int HEIGHT = 600;
