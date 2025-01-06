@@ -5,7 +5,7 @@ import javafx.animation.AnimationTimer;
 import javafx.scene.paint.Color;
 import java.util.Random;
 
-public class TableTennis {
+public class PaddleWars {
     private final int WIDTH, HEIGHT;
     private final double netWidth = 10;
     private final double holeHeight = 70;
